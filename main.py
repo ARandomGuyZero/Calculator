@@ -1,3 +1,12 @@
+"""
+Calculator
+
+Author: Alan
+Date: August 28th 2024
+
+This script simulates a simple basic calculator
+"""
+
 import art
 
 # Define basic arithmetic functions
